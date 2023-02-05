@@ -2,16 +2,6 @@
 
 I'm learning.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreLeufstedt&background=08083a&dates=b3e4ff&currStreakNum=fe10bf&sideNums=fe10bf&stroke=fe10bf&ring=ff8f1f&sideLabels=ff8f1f&fire=fcf645&currStreakLabel=fe10bf&hide_border=true)](https://git.io/streak-stats)
-
-## 💻 My latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Install Yarn in Debian and Ubuntu](https://arieldiaz.codes/blog/install-yarn-ubuntu-debian/)
-- [Install the latest version of NodeJS in Debian and Ubuntu](https://arieldiaz.codes/blog/install-nodejs-ubuntu-debian/)
-- [Build a minimal blog with Deno and host it on Deno Deploy](https://arieldiaz.codes/blog/minimal-blog-deno-deploy/)
-- [How to use Solid Explorer app to access SMB network shares from an Android device](https://arieldiaz.codes/blog/solid-explorer-samba-share/)
-- [How to run self-hosted FileBrowser in Docker](https://arieldiaz.codes/blog/how-to-run-filebrowser-in-docker/)
-<!-- BLOG-POST-LIST:END -->
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreLeufstedt&theme=elegant&border_radius=10&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 ##
 ![](https://komarev.com/ghpvc/?username=AndreLeufstedt&flat-square&color=fa28ad)
